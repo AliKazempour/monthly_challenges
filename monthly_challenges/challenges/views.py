@@ -17,7 +17,7 @@ monthly_challenges = {
     "september":  "Photography Challenge",
     "october": "30-Day Meditation Challenge",
     "november": "Gratitude Challenge",
-    "december": "The Giving Challenge"
+    "december": None
 }
 
 
