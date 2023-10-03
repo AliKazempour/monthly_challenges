@@ -45,4 +45,4 @@ def month_challenge(request, month):
             "month_name": month.capitalize()
         })
     except:
-        return HttpResponseNotFound("<h1>This month is not exist!</h1>")
+        return render(request,"404.html")
